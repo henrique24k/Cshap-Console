@@ -7,7 +7,7 @@ namespace Aula2
         
         static void Main(string[] args)
         {
-            
+
             Console.Title = "Descubra sua situação";
             Console.BackgroundColor = ConsoleColor.White;
             Console.Clear();
@@ -46,7 +46,7 @@ namespace Aula2
             }
             else
             {
-                Console.WriteLine("Digite novamente");
+                Console.WriteLine("Digite Novamente");
                 goto continuar;
             }
 
