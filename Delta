@@ -1,0 +1,42 @@
+using System;
+
+//Atividade das minhas Aulas na Etec.
+
+namespace Atividade_4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b, c, delta, x1,x2;
+
+            Console.WriteLine("Digite o valor de a");
+                a = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o valor de b");
+                b = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o valor de c");
+                c = double.Parse(Console.ReadLine());
+
+                delta = Math.Sqrt(Math.Pow(b,2)-4 *a *c);
+
+            Console.WriteLine("O valor de Delta é: " + delta);
+
+
+            if (delta >= 0)
+            {
+                x1 = (-b + delta) / (2 * a);
+                x2 = (-b - delta) / (2 * a);
+                Console.WriteLine(("O valor de X1 é de : ", x1, ". O valor de X2 é de : ", x2));
+            }
+            else
+            {
+                Console.WriteLine("Nao exite ");
+            }
+
+            Console.ReadKey();
+
+        }
+    }
+}
