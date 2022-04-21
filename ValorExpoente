@@ -1,0 +1,28 @@
+using System;
+
+namespace exercicio1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double valor, expoente, resultado;
+
+            Console.WriteLine("Funções Matemáticas");
+            
+            Console.Write("Digite o valor:");
+            valor = double.Parse(Console.ReadLine());
+            
+            Console.Write("Digite o expoente:");
+            expoente = double.Parse(Console.ReadLine());
+            
+            resultado = Math.Pow(valor, expoente); 
+            Console.WriteLine("O resultado é:" + resultado);
+
+            Console.ReadKey();
+
+
+
+        }
+    }
+}
