@@ -1,0 +1,22 @@
+using System;
+
+namespace exercicio04
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double x;
+
+            Console.Write("Digite um valor real: ");
+            x = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Arredondando para cima:" + Math.Ceiling(x));
+            Console.WriteLine("Arredondando para baixo:" + Math.Floor(x));
+            Console.WriteLine("Arredondando com 2 casas:" + Math.Round(x)); //Arredonda para o valor mais convêniente.
+
+
+            Console.ReadKey();
+        }
+    }
+}
