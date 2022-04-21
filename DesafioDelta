@@ -1,0 +1,37 @@
+using System;
+
+namespace desafio
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b, c, x1, x2, delta;
+
+            Console.WriteLine("Digite o valor de A: ");
+            a = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o valor de B: ");
+            b = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o valor de C: ");
+            c = double.Parse(Console.ReadLine());
+
+            delta = Math.Sqrt(Math.Pow(b, 2) - 4 * a * c);
+            Console.WriteLine("O valor de delta é de: " + delta);
+
+            if(delta >=0){
+                x1 = (- b + delta) / (2 * a);
+                x2 = (-b - delta) / (2 * a);
+                Console.WriteLine("O valor de x1 é " + x1 + " e o de x2 é " + x2);
+            }
+            else{
+                Console.WriteLine("Não exite atribuições de raizes");
+            } 
+
+            Console.ReadKey();
+
+
+        }
+    }
+}
