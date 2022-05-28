@@ -1,0 +1,8 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\bin\Debug\tabuadaWhile.exe.config
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\bin\Debug\tabuadaWhile.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\bin\Debug\tabuadaWhile.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\obj\Debug\tabuadaWhile.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\obj\Debug\tabuadaWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\obj\Debug\tabuadaWhile.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\obj\Debug\tabuadaWhile.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\tabuadaWhile\tabuadaWhile\obj\Debug\tabuadaWhile.pdb
