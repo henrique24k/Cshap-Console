@@ -1,0 +1,8 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\bin\Debug\AtvWhile.exe.config
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\bin\Debug\AtvWhile.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\bin\Debug\AtvWhile.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\obj\Debug\AtvWhile.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\obj\Debug\AtvWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\obj\Debug\AtvWhile.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\obj\Debug\AtvWhile.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\AtvWhile\AtvWhile\obj\Debug\AtvWhile.pdb
