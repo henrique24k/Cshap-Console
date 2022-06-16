@@ -1,0 +1,8 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\bin\Debug\RevisaoFor.exe.config
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\bin\Debug\RevisaoFor.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\bin\Debug\RevisaoFor.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.pdb
