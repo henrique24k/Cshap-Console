@@ -1,0 +1,8 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\bin\Debug\RevisaoDoWhile.exe.config
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\bin\Debug\RevisaoDoWhile.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\bin\Debug\RevisaoDoWhile.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\obj\Debug\RevisaoDoWhile.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\obj\Debug\RevisaoDoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\obj\Debug\RevisaoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\obj\Debug\RevisaoDoWhile.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\RevisaoDoWhile\RevisaoDoWhile\obj\Debug\RevisaoDoWhile.pdb
