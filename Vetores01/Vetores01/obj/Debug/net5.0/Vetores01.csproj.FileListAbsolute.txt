@@ -1,0 +1,16 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\Vetores01.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\Vetores01.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\Vetores01.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\Vetores01.runtimeconfig.dev.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\Vetores01.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\ref\Vetores01.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\bin\Debug\net5.0\Vetores01.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\ref\Vetores01.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores01\Vetores01\obj\Debug\net5.0\Vetores01.genruntimeconfig.cache
