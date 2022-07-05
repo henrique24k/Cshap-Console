@@ -1,0 +1,31 @@
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.exe
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.deps.json
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.runtimeconfig.json
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.runtimeconfig.dev.json
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.dll
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\ref\Vetores02.dll
+C:\Users\almeida\source\repos\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.pdb
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.AssemblyInfoInputs.cache
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.AssemblyInfo.cs
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.csproj.CoreCompileInputs.cache
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.dll
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\ref\Vetores02.dll
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.pdb
+C:\Users\almeida\source\repos\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.genruntimeconfig.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.runtimeconfig.dev.json
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\ref\Vetores02.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\bin\Debug\net5.0\Vetores02.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\ref\Vetores02.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Vetores02\Vetores02\obj\Debug\net5.0\Vetores02.genruntimeconfig.cache
