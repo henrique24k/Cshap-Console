@@ -1,0 +1,16 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ExibindoCaracteres.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ExibindoCaracteres.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ExibindoCaracteres.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ExibindoCaracteres.runtimeconfig.dev.json
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ExibindoCaracteres.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ref\ExibindoCaracteres.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\bin\Debug\net5.0\ExibindoCaracteres.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ref\ExibindoCaracteres.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibindoCaracteres\ExibindoCaracteres\obj\Debug\net5.0\ExibindoCaracteres.genruntimeconfig.cache
