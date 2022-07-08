@@ -1,0 +1,15 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ExibirCaractereForn.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ExibirCaractereForn.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ExibirCaractereForn.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ExibirCaractereForn.runtimeconfig.dev.json
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ExibirCaractereForn.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ref\ExibirCaractereForn.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\bin\Debug\net5.0\ExibirCaractereForn.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ref\ExibirCaractereForn.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\ExibirCaractereForn\ExibirCaractereForn\obj\Debug\net5.0\ExibirCaractereForn.genruntimeconfig.cache
