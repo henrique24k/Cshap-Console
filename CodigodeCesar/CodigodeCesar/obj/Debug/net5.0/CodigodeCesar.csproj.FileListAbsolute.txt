@@ -1,0 +1,16 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\CodigodeCesar.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\CodigodeCesar.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\CodigodeCesar.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\CodigodeCesar.runtimeconfig.dev.json
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\CodigodeCesar.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\ref\CodigodeCesar.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\bin\Debug\net5.0\CodigodeCesar.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\ref\CodigodeCesar.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\CodigodeCesar\CodigodeCesar\obj\Debug\net5.0\CodigodeCesar.genruntimeconfig.cache
