@@ -1,0 +1,16 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\HorariosIfElse.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\HorariosIfElse.deps.json
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\HorariosIfElse.runtimeconfig.json
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\HorariosIfElse.runtimeconfig.dev.json
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\HorariosIfElse.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\ref\HorariosIfElse.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\bin\Debug\net5.0\HorariosIfElse.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.AssemblyInfoInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.AssemblyInfo.cs
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\ref\HorariosIfElse.dll
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\HorariosIfElse\HorariosIfElse\obj\Debug\net5.0\HorariosIfElse.genruntimeconfig.cache
