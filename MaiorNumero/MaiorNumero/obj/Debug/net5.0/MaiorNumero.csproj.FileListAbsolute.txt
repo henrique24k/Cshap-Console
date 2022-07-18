@@ -1,0 +1,16 @@
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\MaiorNumero.exe
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\MaiorNumero.deps.json
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\MaiorNumero.runtimeconfig.json
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\MaiorNumero.runtimeconfig.dev.json
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\MaiorNumero.dll
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\ref\MaiorNumero.dll
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\bin\Debug\net5.0\MaiorNumero.pdb
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.csproj.AssemblyReference.cache
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.AssemblyInfo.cs
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.dll
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\ref\MaiorNumero.dll
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.pdb
+C:\Users\suporteti\Desktop\MaiorNumero\MaiorNumero\obj\Debug\net5.0\MaiorNumero.genruntimeconfig.cache
