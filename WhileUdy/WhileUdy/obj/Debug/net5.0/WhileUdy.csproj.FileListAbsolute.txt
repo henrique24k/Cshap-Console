@@ -1,0 +1,16 @@
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\WhileUdy.exe
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\WhileUdy.deps.json
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\WhileUdy.runtimeconfig.json
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\WhileUdy.runtimeconfig.dev.json
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\WhileUdy.dll
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\ref\WhileUdy.dll
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\bin\Debug\net5.0\WhileUdy.pdb
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.csproj.AssemblyReference.cache
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.AssemblyInfoInputs.cache
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.AssemblyInfo.cs
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.csproj.CoreCompileInputs.cache
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.dll
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\ref\WhileUdy.dll
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.pdb
+C:\Users\suporteti\Desktop\WhileUdy\WhileUdy\obj\Debug\net5.0\WhileUdy.genruntimeconfig.cache
